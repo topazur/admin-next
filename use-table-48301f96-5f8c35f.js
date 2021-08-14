@@ -1,2 +1,0 @@
-import{r as a,aS as r}from"./vendor-1112b8e8-5f8c35f.js";const e=e=>{const o=a([]),s=a({}),t=r({sortBy:"",sortOrder:0}),c=a([]),n=a(!1);return{data:o,pager:s,sortProps:t,checkedRowKeys:c,loading:n,fetchDataFn:async(a,r)=>{n.value=!0,await e(o,s)(a,r),n.value=!1}}};export{e as u};
-//# sourceMappingURL=use-table-48301f96-5f8c35f.js.map
