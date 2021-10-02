@@ -1,0 +1,1 @@
+import{r as a,aT as r}from"./vendor-bf4cdcd7-4501dcf.js";const o=o=>{const s=a([]),t=a({}),e=r({sortBy:"",sortOrder:0}),c=a([]),d=a(!1);return{data:s,pager:t,sortProps:e,checkedRowKeys:c,loading:d,fetchDataFn:async(a,r)=>{d.value=!0,await o(s,t)(a,r),d.value=!1}}};export{o as u};
