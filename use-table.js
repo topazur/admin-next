@@ -1,0 +1,1 @@
+import{r as a,aT as u}from"./vendor.js";const f=r=>{const s=a([]),t=a({}),o=u({sortBy:"",sortOrder:0}),c=a([]),e=a(!1);return{data:s,pager:t,sortProps:o,checkedRowKeys:c,loading:e,fetchDataFn:async(n,l)=>{e.value=!0,await r(s,t)(n,l),e.value=!1}}};export{f as u};
