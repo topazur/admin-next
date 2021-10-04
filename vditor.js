@@ -1,4 +1,4 @@
-import{u as fi,U as di}from"./index.js";import{e as pi,u as hi,s as mi}from"./props.js";import{bN as gi,aR as yi,b6 as bi,d as wi,r as vi,o as Ei,b4 as Ci,w as Tn,h as Si}from"./vendor.js";var kn={exports:{}};/*!
+import{u as fi,U as di}from"./index.js";import{e as pi,u as hi,s as mi}from"./props.js";import{bO as gi,aS as yi,b7 as bi,d as wi,r as vi,o as Ei,b5 as Ci,w as Tn,h as Si}from"./vendor.js";var kn={exports:{}};/*!
  * Vditor v3.8.7 - A markdown editor written in TypeScript.
  *
  * MIT License
